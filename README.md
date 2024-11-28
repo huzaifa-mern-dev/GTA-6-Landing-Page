@@ -46,6 +46,7 @@ Clone the repository and install the dependencies:
 git clone https://github.com/your-username/gta-6-theta.git
 cd gta-6-theta
 npm install
+npm run dev
 
 
 
