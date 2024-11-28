@@ -27,4 +27,25 @@ Explore the live version of the project here:
 
 ---
 
+# 🚀 Getting Started
+
+Follow these steps to set up the project locally:
+
+## 1️⃣ Prerequisites
+
+Ensure you have the following installed:
+
+- Node.js (v16 or higher)
+- npm or yarn
+
+## 2️⃣ Installation
+
+Clone the repository and install the dependencies:
+
+```bash
+git clone https://github.com/your-username/gta-6-theta.git
+cd gta-6-theta
+npm install
+
+
 
